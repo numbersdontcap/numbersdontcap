@@ -1,16 +1,18 @@
-## Hi there 👋
+# Yo, I'm numbersdontcap, u can call me numbers or wtvr u want.
 
-<!--
-**numbersdontcap/numbersdontcap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning full-stack development in public — open source, serverless, and everything in between.
 
-Here are some ideas to get you started:
+### Current Focus
+-  Building my foundation with HTML, CSS, JavaScript, and Git
+-  Creating a serverless portfolio site from scratch
+-  Exploring beginner-friendly open source projects to contribute to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Skill Stack (Learning Roadmap)
+`HTML` `CSS` `JavaScript` `Git/GitHub`  
+Coming soon: `React` `Node.js` `MongoDB` `Tailwind` `Next.js`
+
+### Projects in Progress
+- `portfolio-v1`: My personal site, built from the ground up
+- Open-source contributions coming soon...
+
+ Everything here is a snapshot of the process, not perfection.
